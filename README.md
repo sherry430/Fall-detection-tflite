@@ -24,6 +24,6 @@ the paper[https://ieeexplore.ieee.org/document/8662651]
 
 - SisFall http://sistemic.udea.edu.co/en/investigacion/proyectos/english-falls/
 
-## original author
+## Original author
 https://github.com/chizhanyuefeng/FD-CNN
 
